@@ -1,0 +1,14 @@
+{
+  "name": "todo-tasks",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "Andres Gomez"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
